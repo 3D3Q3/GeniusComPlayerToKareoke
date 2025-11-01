@@ -1,0 +1,7 @@
+PyQt5
+requests
+python-dotenv
+pydub
+opencv-python
+beautifulsoup4
+lxml
